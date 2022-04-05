@@ -1,0 +1,21 @@
+{
+  "title": "Shenghong Zhong",
+  "url": "https://kingdomdavid.com/",
+  "language": "en",
+  "description": "A Place Where I share love, thoughts, ideas and me",
+  "feed": {
+    "subtitle": "Every Problem is solvable. ",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://kingdomdavid.com"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://kingdomdavid.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Shenghong(David) Zhong",
+    "email": "Davidzhong@hey.com",
+    "url": "https://kingdomdavid.com/about-me/"
+  }
+}
