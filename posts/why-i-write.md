@@ -31,7 +31,14 @@ Over the years, people have been curious about why I chose David as my English n
 
 Let's say the other day, a bootcamp mate asked what language he should learn. I wrote a reply to him.
 
-https://twitter.com/ShenghongZhong/status/1509595575683006469
+> That’s one perspective of motivation but it won’t possibly stay longer in my experience, unless you make a daily habit of writing code/learning programming language .  Thinking about any language won’t make you software developer, but taking any form of action: writing code every single day does. Software engineer is an identity, a lifestyle rather than a job title, a name.
+>
+>But the simplest one would be to enjoy the fun of writing clean code, challenging yourself to solve harder problems, making applications that is useful for others.
+>
+>Java, JavaScript, Python, they are all different tools, but the purpose of learning any programming language should bear end goals in mind. In this way, they are the same. Interestingly, I can see patterns in JavaScript are highly similar to Python. That discovery excites me.  Implementing some abstract logics we can’t see in our eyes excites me. Making ridiculous length of code into a clean code excites me. Solve problems smartly that bring values to firms excites me.  I found out I don’t need to be a software developer to enjoy everything they do. To me, the way I enjoy writing code produces the byproduct: software engineer/data scientist, whatever
+>
+>It all depends on what you want and your commitment.
+
 
 I realised a fact that if you really want something, you gonna do it every day. It's not there is the best method/langeuage/or any other thing, but it's your action. 
 
