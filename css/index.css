@@ -22,7 +22,7 @@ html,
 body {
   padding: 0;
   margin: auto;
-  max-width: 50em;
+  max-width: 60em;
   font-family: -apple-system, system-ui, sans-serif;
   color: var(--white);
   background-color: var(--almostblack);
@@ -38,9 +38,14 @@ header {
   font-family: "Roboto Slab", serif;
 }
 
+.tmpl-post p
+{
+  font-size:22px;
+}
 p:last-child {
   margin-bottom: 0;
 }
+
 p,
 .tmpl-post li,
 img {
@@ -48,7 +53,7 @@ img {
 }
 p,
 .tmpl-post li {
-  line-height: 1.45;
+  line-height: 2.45;
 }
 a[href] {
   color: var(--white);
@@ -98,8 +103,8 @@ code {
   line-height: 1.5;
 }
 pre {
-  font-size: 14px;
-  line-height: 1.375;
+  font-size: 16px;
+  line-height: 2;
   direction: ltr;
   text-align: left;
   white-space: pre;

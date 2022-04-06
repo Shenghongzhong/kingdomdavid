@@ -6,8 +6,12 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 
+const embedTwitter = require("eleventy-plugin-embed-twitter");
+
+
 module.exports = function (eleventyConfig) {
   // Add plugins
+  eleventyConfig.addPlugin(embedTwitter);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
@@ -29,6 +33,7 @@ module.exports = function (eleventyConfig) {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
   });
 
+  
   // Get the first `n` elements of a collection.
   eleventyConfig.addFilter("head", (array, n) => {
     if (!Array.isArray(array) || array.length === 0) {
