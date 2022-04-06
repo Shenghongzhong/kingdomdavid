@@ -1,6 +1,6 @@
 ---
 title: Why I write
-description: to show incremental progresses so that I can come back later
+description: For self-invention
 date: 2022-04-06
 tags: WHY
 layout: layouts/post.njk
