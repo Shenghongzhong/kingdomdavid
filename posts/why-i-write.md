@@ -55,3 +55,6 @@ For those who don't know, I actually graduated from a bachelor's degree in finan
 I saw one of people from bootcamp has been working quite hard to update github and had a personal blog, etc. In the professional world, it is quite obvious to see this behaviour. Some would try to calculate the zero-sum game where there may be a checklist for things you complete and you get a point. However, in my case, I just wanted a place, a home to gather my thoughts and believes. Like I said above, the identity is determined by what you do everyday.
 
 Up  to the point, I just realise the best thing to guarntee outcomes  is to commit to the process. if something I'd like to do everyday until I die, I would do it.
+
+Best,
+David
