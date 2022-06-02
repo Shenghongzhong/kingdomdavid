@@ -16,3 +16,4 @@ Use time wisely. I spent so much time in figuring out the domain and servers. Bu
 
 I'm not quite sure about why it is so hard to get a job. Honestly, I've tried my best and applied for 180+ jobs now. 
 
+# 
